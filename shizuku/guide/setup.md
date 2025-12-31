@@ -4,7 +4,8 @@
 
 ## Start Shizuku
 
-Shizuku supports startup in the following three ways.
+Shizuku supports https://github.com/RikkaApps/websites/pull/79#issue-1751837442
+startup in the following three ways.
 
 ::: tip If you are using GrapheneOS
 
